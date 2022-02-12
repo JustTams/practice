@@ -1,3 +1,3 @@
 This is a README file
-now it is modified on master
+This is from newbranch
 Now it is modified on server
